@@ -1,0 +1,9 @@
+<parmas>
+    <url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
+    <excelName>中鋼202201-202308</excelName>
+    <startYear>2022</startYear>
+    <startMonth>01</startMonth>
+    <endYear>2023</endYear>
+    <endMonth>08</endMonth>
+    <stockNo>2002</stockNo>
+</parmas>
